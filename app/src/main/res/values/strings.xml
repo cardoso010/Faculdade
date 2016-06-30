@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Faculdade</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="faculdade">Faculdade</string>
+    <string name="btn_cadastro">Novo Disciplina</string>
+    <string name="btn_listar">Listar Disciplinar</string>
+    <string name="title_activity_cadatro_faculdade">Cadastro Faculdade</string>
+    <string name="cadastro_disciplina">Cadastro Disciplina</string>
+    <string name="nome">Nome</string>
+    <string name="periodo">Periodo</string>
+    <string name="primeira_prova">Primeira prova</string>
+    <string name="segunda_prova">Segunda prova</string>
+    <string name="primeiro_trabalho">Primeiro trabalho</string>
+    <string name="segundo_trabalho">Segundo trabalho</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string-array name="periodo_array">
+        <item>Semestre</item>
+        <item>Ano</item>
+    </string-array>
+    <string name="title_activity_cadastro_disciplina">Cadastro Disciplina</string>
+    <string name="title_activity_listar_disciplina">ListarDisciplina</string>
+</resources>
